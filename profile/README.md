@@ -1,3 +1,5 @@
+![Organization Header Logo](logo-header.png)
+
 # Little Rock LLM & AI Agent Community
 
 A local community for people exploring large language models, AI agents, and the systems being built around them.
